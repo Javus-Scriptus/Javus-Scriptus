@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm a 14 years old teen. I am studying for Front-end developing</h1>
 <h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
+<img src="(https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/200w.gif)" alt="content-gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javus-scriptus&label=Profile%20views&color=0e75b6&style=flat" alt="javus-scriptus" /> </p>
 

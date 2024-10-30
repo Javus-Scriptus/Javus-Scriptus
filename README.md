@@ -1,3 +1,4 @@
+<img width="100%" height="600px" src="https://steamuserimages-a.akamaihd.net/ugc/772866286590370691/BE71F6A88BCE55CC7265423E515CBFBC1CCEDF51/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="bg-gif">
 <h1 align="center">Hi 👋, I'm a 14 years old teen. I am studying for Front-end developing</h1>
 <h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
 
@@ -23,7 +24,7 @@
 
 - 📄 Know about my experiences on dev.to [https://dev.to/javusscriptus_26d6964d3e1](https://dev.to/javusscriptus_26d6964d3e1)
 
-- <img style="width: 250px; height: 250px;" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
+  <img style="width: 200px; height: 200px;" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
 
 - ⚡ Fun fact **I know how to have DevMode for Figma for free.**
 

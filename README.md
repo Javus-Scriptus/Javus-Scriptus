@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to have a JavaScript partner [To learn together JavaScript](https://github.com/Javus-Scriptus/JavaScript)
 
-- 🤝 I’m looking for help with ["Forkio" project. Figma link 👉](https://www.figma.com/design/EXppaZgZl1u4kEYo5QubLI/Forkio?node-id=0-1&node-type=canvas&m=dev)
+- 🤝 I’m looking for help with ["Forkio" project. Figma link 👈](https://www.figma.com/design/EXppaZgZl1u4kEYo5QubLI/Forkio?node-id=0-1&node-type=canvas&m=dev)
 
 - 👨‍💻 All of my projects are available at this GitHub [https://github.com/Javus-Scriptus](https://github.com/Javus-Scriptus)
 
@@ -23,8 +23,8 @@
 - 📫 How to reach me **garikkrass@gmail.com**
 
 - 📄 Know about my experiences on dev.to [https://dev.to/javusscriptus_26d6964d3e1](https://dev.to/javusscriptus_26d6964d3e1)
-
-  <img style="width: 200px; height: 200px;" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
+  <img width="350px" height="180px" align="right" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAC/coding.gif" alt="multi-screen">
+  <img width="200px" height="200px" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
 
 - ⚡ Fun fact **I know how to have DevMode for Figma for free.**
 
@@ -47,3 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javus-scriptus&show_icons=true&locale=en" alt="javus-scriptus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javus-scriptus&" alt="javus-scriptus" /></p>
+<img width="100%" height="180px" src="https://iq.opengenus.org/content/images/2020/08/Dino_non-birthday_version.gif" alt="dinosaur">

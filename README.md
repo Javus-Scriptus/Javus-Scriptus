@@ -1,4 +1,4 @@
-<img width="100%" height="600px" src="https://steamuserimages-a.akamaihd.net/ugc/772866286590370691/BE71F6A88BCE55CC7265423E515CBFBC1CCEDF51/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="bg-gif">
+<img width="100%"  src="https://media1.tenor.com/m/4RYbGa1GttQAAAAd/lofi-browsing.gif" alt="bg-gif">
 <h1 align="center">Hi 👋, I'm a 14 years old teen. I am studying for Front-end developing</h1>
 <h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
 

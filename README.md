@@ -2,7 +2,7 @@
 <h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
 <img src="(https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/200w.gif)" alt="content-gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javus-scriptus&label=Profile%20views&color=0e75b6&style=flat" alt="javus-scriptus" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fputti&psig=AOvVaw0bWlgNXAH3ETzARSheN-nI&ust=1730378062742000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCIi-COtokDFQAAAAAdAAAAABAE" alt="javus-scriptus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javus-scriptus" alt="javus-scriptus" /></a> </p>
 

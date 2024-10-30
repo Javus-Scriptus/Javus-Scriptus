@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **garikkrass@gmail.com**
 
-- 📄 Know about my experiences dev.to [https://dev.to/javusscriptus_26d6964d3e1](https://dev.to/javusscriptus_26d6964d3e1)
+- 📄 Know about my experiences on dev.to [https://dev.to/javusscriptus_26d6964d3e1](https://dev.to/javusscriptus_26d6964d3e1)
 
 - ⚡ Fun fact **I know how to have DevMode for Figma for free.**
 

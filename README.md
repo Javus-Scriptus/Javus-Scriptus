@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a 14 years old teen. I am studying for Front-end developing</h1>
 <h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
-<img src="https://www.google.com/url?sa=iurl=https%3A%2F%2Fgiphy.com%2Fputtipsig=AOvVaw0bWlgNXAH3ETzARSheN-nIust=1730378062742000source=imagescd=vfeopi=89978449ved=0CBAQjRxqFwoTCKCIi-COtokDFQAAAAAdAAAAABAE" alt="content-gif">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
 
 <p align="left"></p>
 

@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I know how to have DevMode for Figma for free.**
 
-<img style="width: 200px; height: 200px; margin-left: auto; margin-top: -50px;" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
+<img style="width: 200px; height: 200px; margin-top: -50px;" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5YjZvM3hlcjlhbTRqYmNhZDY3ZWw2YjdtdTZ5bzF2NTg2ZDg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.webp" alt="content-gif">
 
 
 <h3 align="left">Connect with me:</h3>

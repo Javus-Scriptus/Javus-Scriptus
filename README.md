@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm a 14 years old teen. I am studying for Front-end developing</h1>
 <h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fputti&psig=AOvVaw0bWlgNXAH3ETzARSheN-nI&ust=1730378062742000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCIi-COtokDFQAAAAAdAAAAABAE" alt="content-gif">
+<img src="https://www.google.com/url?sa=iurl=https%3A%2F%2Fgiphy.com%2Fputtipsig=AOvVaw0bWlgNXAH3ETzARSheN-nIust=1730378062742000source=imagescd=vfeopi=89978449ved=0CBAQjRxqFwoTCKCIi-COtokDFQAAAAAdAAAAABAE" alt="content-gif">
 
 <p align="left"></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javus-scriptus" alt="javus-scriptus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on ["WebStudio" layout](https://github.com/Javus-Scriptus/WebStudio)
 

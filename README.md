@@ -1,6 +1,6 @@
 <img width="100%"  src="https://media1.tenor.com/m/4RYbGa1GttQAAAAd/lofi-browsing.gif" alt="bg-gif">
 <h1 align="center">Hi 👋, I'm a 14 years old teen. I am studying for Front-end developing</h1>
-<h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects</h3>
+<h3 align="center">I will have pleasure to make some new friends to make some Front-end partner projects <br> My expirience is coding with such markup languages as HTML5, CSS3. <br> I have many layouts, which are made on these markup languages</h3>
 
 <p align="left"></p>
 
